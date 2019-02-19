@@ -7,6 +7,10 @@ http://www.jq22.com/jquery-info3511
 #### 在线演示
 https://tczmh.gitee.io/fireworks
 
+#### 源码Git地址
+Gitee: https://gitee.com/tczmh/fireworks
+Github: https://github.com/18121259693/fireworks
+
 #### 主要内容
 原版内容非常酷炫
 本人只是精简代码到只留烟花
