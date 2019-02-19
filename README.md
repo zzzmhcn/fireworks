@@ -38,5 +38,5 @@ z-index: 9999;
 以及引入最终的实现的js
 (默认绘画在id=fireworks的DIV上，可以在代码里修改)
 ```javascript
-<script src="js/sketch.min.js"></script>
+<script src="js/fireworks.js"></script>
 ```
