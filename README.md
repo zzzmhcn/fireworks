@@ -11,3 +11,28 @@ https://tczmh.gitee.io/fireworks
 原版内容非常酷炫
 本人只是精简代码到只留烟花
 方便之后用在其他项目
+
+#### 用法
+烟花的核心部分只有3个
+
+一个透明全屏的div
+```html
+<div id="fireworks"></div>
+```
+推荐样式
+```css
+position: fixed;
+top: 0px;
+z-index: 9999;
+```
+
+引入依赖 sketch.min.js
+```javascript
+<script src="js/sketch.min.js"></script>
+```
+
+以及引入最终的实现的js
+(默认绘画在id=fireworks的DIV上，可以在代码里修改)
+```javascript
+<script src="js/sketch.min.js"></script>
+```
