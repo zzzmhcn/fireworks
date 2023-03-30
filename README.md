@@ -5,10 +5,10 @@ http://www.jq22.com/jquery-info3511
 原作者ID @菲利克斯诗音
 
 #### 在线演示
-https://tczmh.gitee.io/fireworks
+https://zzzmhcn.gitee.io/fireworks
 
 #### 源码Git地址
-Gitee: https://gitee.com/tczmh/fireworks
+Gitee: https://gitee.com/zzzmhcn/fireworks
 Github: https://github.com/18121259693/fireworks
 
 #### 主要内容
