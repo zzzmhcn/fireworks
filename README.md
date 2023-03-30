@@ -9,7 +9,7 @@ https://zzzmhcn.gitee.io/fireworks
 
 #### 源码Git地址
 Gitee: https://gitee.com/zzzmhcn/fireworks
-Github: https://github.com/18121259693/fireworks
+Github: https://github.com/zzzmhcn/fireworks
 
 #### 主要内容
 原版内容非常酷炫
